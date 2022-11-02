@@ -1,0 +1,9 @@
+Fetures of salary calculator
+1.Performed the basic opereations(hra,da,pf,gs,ns)
+2.Dom (document object Model)
+3.Dynamic Addition of elements
+4.MVC design Pattern
+5.Software engineering Principle
+  a) Dry(Do Not Repeat Yourself)
+  b) Srp(Single resposiblity Principle)
+6.ECMA 2015 features
